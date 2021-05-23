@@ -7,10 +7,13 @@ Must have mongoDB installed
 Users:
 
 Username: theboywholived
+
 Pass: quidditch
 
 Username: masterdetective123
+
 Pass: elementarymydearwatson
 
 Username: lemon
+
 Pass: damnyoujackdonaghy
